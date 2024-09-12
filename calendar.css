@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Sequel', sans-serif;
+}
+.months {
+    display: inline-block;
+    width: 150;
+    margin: 5px;
+}
+    .july{
+        margin: 0px 14px;
+    }
+img {
+    max-width: 150px;
+}
+#july {
+    margin: 0px 5px;
+}
+    .days {
+        display: inline-block;
+        border: 1px solid black;
+        width: 60px;
+        font-weight: bold;
+        text-align: center;
+        padding: 3px;
+        margin: 5px 0px;
+    }
+    .sunday {
+        background-color: #5b9bd5;
+    }
+    .saturday {
+        background-color: #a9d08e;
+    }
+    .pastMonth {
+        display: inline-block;
+        width: 60px;
+        padding: 3px;
+        margin: 5px 1px;
+        min-height: 18px;
+        vertical-align: middle;
+        background-color: #e7e6e6;
+    }
+    .firstWeek {
+        display: inline-block;
+        border: 1px solid black;
+        width: 60px;
+        text-align: center;
+        padding: 3px;
+        margin: 5px 0px;
+        min-height: 18px;
+        vertical-align: middle;
+    }
+    .secondWeek {
+        display: inline-block;
+        border: 1px solid black;
+        width: 60px;
+        text-align: center;
+        padding: 3px;
+        margin: 5px 0px;
+        min-height: 18px;
+        vertical-align: middle;
+    }
+    .thirdWeek {
+        display: inline-block;
+        border: 1px solid black;
+        width: 60px;
+        text-align: center;
+        padding: 3px;
+        margin: 5px 0px;
+        min-height: 18px;
+        vertical-align: middle;
+    }
+    .fourthWeek {
+        display: inline-block;
+        border: 1px solid black;
+        width: 60px;
+        text-align: center;
+        padding: 3px;
+        margin: 5px 0px;
+        min-height: 18px;
+        vertical-align: middle;
+    }
+    .fifthWeek {
+        display: inline-block;
+        border: 1px solid black;
+        width: 60px;
+        text-align: center;
+        padding: 3px;
+        margin: 5px 0px;
+        min-height: 18px;
+        vertical-align: middle;
+    }
